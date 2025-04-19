@@ -3,4 +3,4 @@ project(do_while_ile_matmatik)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(do_while_ile_matmatik main.cpp)
+add_executable(do_while_ile_matmatik main.c)
