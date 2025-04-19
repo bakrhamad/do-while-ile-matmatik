@@ -1,0 +1,3 @@
+/Users/bakrhamad/CLionProjects/do-while-ile-matmatik/cmake-build-debug/CMakeFiles/do_while_ile_matmatik.dir
+/Users/bakrhamad/CLionProjects/do-while-ile-matmatik/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bakrhamad/CLionProjects/do-while-ile-matmatik/cmake-build-debug/CMakeFiles/rebuild_cache.dir
